@@ -12,5 +12,3 @@ API: CoinGecko API for real-time data
 
 📧 Contact :
 My LinkedIn : https://www.linkedin.com/in/aboubacar-traore-495736252/
-Project Link: https://github.com/yourusername/crypto-price-tracker
-
