@@ -1,0 +1,23 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+}
+
+.line{
+    border: 1px solid transparent;
+    background-color: #f1f1f149;
+    width: 75rem;
+    height: 2px;
+    border-radius: 50px;
+}
+
+@media screen and (max-width:900px){
+    .line{
+        width: 20rem;
+    }
+    
+}
